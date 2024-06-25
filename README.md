@@ -13,3 +13,7 @@ The Amazon Prime Dashboard Visualization project aims to provide insights into v
 - **Content Popularity**: Identify popular movies, TV shows, and original content on Amazon Prime.
 - **Subscription Trends**: Track subscription growth, churn rates, and regional distribution of Prime users.
 - **Revenue Analysis**: Visualize revenue trends, subscription fees, and customer spending patterns.
+
+## Power BI Page
+
+<img width="876" alt="power bi page" src="./img/amazon-prime-dash.png">
